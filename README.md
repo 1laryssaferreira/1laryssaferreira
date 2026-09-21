@@ -14,8 +14,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
-
 ### 💗 Sobre mim
 
 ```python
