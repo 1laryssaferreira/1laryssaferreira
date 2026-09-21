@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2D95,100:0D1117&height=200&section=header&text=Laryssa%20Santos%20Ferreira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Suporte%20de%20TI%20%7C%20Estudante%20de%20ADS&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/1laryssaferreira">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=550&lines=Suporte+de+TI+%7C+Helpdesk;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+Python%2C+JavaScript+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=800&lines=Suporte+de+TI+%7C+Helpdesk;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+Python%2C+JavaScript+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,52 +62,34 @@ class Laryssa:
 
 ### 🚀 Projetos em destaque
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/1laryssaferreira/Sentinel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1laryssaferreira&repo=Sentinel&theme=dark&title_color=FF2D95&icon_color=FF2D95&border_color=FF2D95&bg_color=0D1117" />
-</a>
-<a href="https://github.com/1laryssaferreira/fastborrow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1laryssaferreira&repo=fastborrow&theme=dark&title_color=FF2D95&icon_color=FF2D95&border_color=FF2D95&bg_color=0D1117" />
-</a>
+#### 🛡️ [Sentinel](https://github.com/1laryssaferreira/Sentinel)
 
-</div>
+Sistema web de segurança residencial: reconhecimento facial, geolocalização em tempo real, planta baixa interativa com sensores, chatbot assistente e acionamento automático de polícia/bombeiros.
 
-| Projeto | Descrição |
-|---|---|
-| 🛡️ **Sentinel** | Sistema web de segurança residencial: reconhecimento facial, geolocalização em tempo real, planta baixa interativa com sensores, chatbot assistente e acionamento automático de polícia/bombeiros. `HTML/JS` `Node.js` `Express` `TypeScript` `MySQL` |
-| 💻 **FastBorrow** | Aplicação web para gerenciamento de empréstimo de Chromebooks e equipamentos em instituições de ensino, com deploy em produção. `Python` `Flask` `SQLite` |
+![HTML/JS](https://img.shields.io/badge/-HTML%2FJS-0D1117?style=flat-square&logo=javascript&logoColor=FF2D95)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FF2D95)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat-square&logo=express&logoColor=FF2D95)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FF2D95)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=FF2D95)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
+</td>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+#### 💻 [FastBorrow](https://github.com/1laryssaferreira/fastborrow)
 
-<div align="center">
+Aplicação web para gerenciamento de empréstimo de Chromebooks e equipamentos em instituições de ensino, com deploy em produção.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=1laryssaferreira&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D95&icon_color=FF2D95&text_color=FFFFFF"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1laryssaferreira&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D95&text_color=FFFFFF"/>
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=FF2D95)
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&logo=flask&logoColor=FF2D95)
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=FF2D95)
 
-<img src="https://streak-stats.demolab.com?user=1laryssaferreira&theme=dark&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakLabel=FF2D95"/>
-
-</div>
-
-<details>
-<summary>📈 Gráfico de atividade</summary>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1laryssaferreira&theme=react-dark&bg_color=0D1117&color=FF2D95&line=FF2D95&point=FFFFFF&hide_border=true" width="100%"/>
-
-</details>
-
-<details>
-<summary>🏆 Troféus</summary>
-<br/>
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=1laryssaferreira&theme=darkhub&no-frame=true&margin-w=10&column=7" />
-
-</div>
-</details>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
 
