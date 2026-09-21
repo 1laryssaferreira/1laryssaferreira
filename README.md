@@ -22,11 +22,13 @@
 class Laryssa:
     def __init__(self):
         self.nome = "Laryssa Santos Ferreira"
-        self.cargo_atual = "Estagiária de TI — Suporte Técnico"
+        self.cargo = "Suporte de TI — Helpdesk"
         self.formacao = "Análise e Desenvolvimento de Sistemas (UniFECAF)"
-        self.origem = "Comecei no HTML/CSS/JS em um curso Alura no ensino médio"
-        self.hoje = "trabalho com GLPI, Linux e Windows no dia a dia,
-                     e desenvolvo projetos próprios nas horas vagas"
+        self.origem = "Comecei no HTML/CSS/JS em um curso Alura, no ensino médio"
+        self.hoje = (
+            "Hoje trabalho com GLPI, Linux e Windows no dia a dia, "
+            "e desenvolvo projetos próprios nas horas vagas"
+        )
 ```
 
 - 🖥️ Atuo no suporte de TI (helpdesk) de uma instituição de ensino: chamados via **GLPI**, administração de máquinas **Ubuntu/Linux** e **Windows**, configuração de laboratórios, impressoras e ferramentas internas.
