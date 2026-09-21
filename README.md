@@ -62,11 +62,11 @@ class Laryssa:
 
 <div align="center">
 
-<a href="https://github.com/1laryssaferreira">
+<a href="https://github.com/1laryssaferreira/Sentinel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1laryssaferreira&repo=Sentinel&theme=dark&title_color=FF2D95&icon_color=FF2D95&border_color=FF2D95&bg_color=0D1117" />
 </a>
-<a href="https://github.com/1laryssaferreira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1laryssaferreira&repo=FastBorrow&theme=dark&title_color=FF2D95&icon_color=FF2D95&border_color=FF2D95&bg_color=0D1117" />
+<a href="https://github.com/1laryssaferreira/fastborrow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1laryssaferreira&repo=fastborrow&theme=dark&title_color=FF2D95&icon_color=FF2D95&border_color=FF2D95&bg_color=0D1117" />
 </a>
 
 </div>
