@@ -14,6 +14,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
+
 ### 💗 Sobre mim
 
 ```python
@@ -75,3 +77,48 @@ class Laryssa:
 | 💻 **FastBorrow** | Aplicação web para gerenciamento de empréstimo de Chromebooks e equipamentos em instituições de ensino, com deploy em produção. `Python` `Flask` `SQLite` |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=1laryssaferreira&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D95&icon_color=FF2D95&text_color=FFFFFF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1laryssaferreira&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D95&text_color=FFFFFF"/>
+
+<img src="https://streak-stats.demolab.com?user=1laryssaferreira&theme=dark&hide_border=true&background=0D1117&ring=FF2D95&fire=FF2D95&currStreakLabel=FF2D95"/>
+
+</div>
+
+<details>
+<summary>📈 Gráfico de atividade</summary>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1laryssaferreira&theme=react-dark&bg_color=0D1117&color=FF2D95&line=FF2D95&point=FFFFFF&hide_border=true" width="100%"/>
+
+</details>
+
+<details>
+<summary>🏆 Troféus</summary>
+<br/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=1laryssaferreira&theme=darkhub&no-frame=true&margin-w=10&column=7" />
+
+</div>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2D95&height=2&width=100%"/>
+
+<div align="center">
+
+### 🤝 Vamos nos conectar
+
+[![LinkedIn](https://img.shields.io/badge/-Laryssa%20Santos%20Ferreira-0D1117?style=flat-square&logo=linkedin&logoColor=FF2D95)](https://www.linkedin.com/in/laryssa-santos-ferreira-ba6b1b387)
+[![Gmail](https://img.shields.io/badge/-laryssasantosfer%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=FF2D95)](mailto:laryssasantosfer@gmail.com)
+[![Portfólio](https://img.shields.io/badge/-Ver%20portfólio-0D1117?style=flat-square&logo=googlechrome&logoColor=FF2D95)](https://1laryssaferreira.github.io/Portifolio/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2D95,100:0D1117&height=100&section=footer"/>
+
+</div>
