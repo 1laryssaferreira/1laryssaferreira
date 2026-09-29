@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2D95,100:0D1117&height=200&section=header&text=Laryssa%20Santos%20Ferreira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Suporte%20de%20TI%20%7C%20Estudante%20de%20ADS&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF2D95,100:0D1117&height=200&section=header&text=Laryssa%20Santos%20Ferreira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20%7C%20Estudante%20de%20ADS&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/1laryssaferreira">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=800&lines=Suporte+de+TI+%7C+Helpdesk;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+Python%2C+JavaScript+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF2D95&center=true&vCenter=true&width=800&lines=Desenvolvedora+de+Software;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+Python%2C+JavaScript+e+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 <br/>
