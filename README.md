@@ -22,7 +22,7 @@
 class Laryssa:
     def __init__(self):
         self.nome = "Laryssa Santos Ferreira"
-        self.cargo = "Suporte de TI — Helpdesk"
+        self.cargo = "Desenvolvimento — Suporte"
         self.formacao = "Análise e Desenvolvimento de Sistemas (UniFECAF)"
         self.origem = "Comecei no HTML/CSS/JS em um curso Alura, no ensino médio"
         self.hoje = (
