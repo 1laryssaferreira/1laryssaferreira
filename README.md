@@ -31,7 +31,7 @@ class Laryssa:
         )
 ```
 
-- 🖥️ Atuo no suporte de TI (helpdesk) de uma instituição de ensino: chamados via **GLPI**, administração de máquinas **Ubuntu/Linux** e **Windows**, configuração de laboratórios, impressoras e ferramentas internas.
+- 🖥️ Atuei no suporte de TI (helpdesk) de uma instituição de ensino, com atendimento de chamados via GLPI, administração de máquinas Ubuntu/Linux e Windows, configuração de laboratórios, impressoras e desenvolvimento de ferramentas internas.
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniFECAF.
 - 🌱 Atualmente aprofundando conhecimentos em **Inteligência Artificial**, **Agentes Autônomos** e **Big Data**.
 - 🌐 Inglês avançado · Espanhol intermediário.
